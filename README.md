@@ -5,16 +5,7 @@ a Web Developer, Competetive Coder
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=github_dark" />
 
 
- [LinkedIn][2] [Hackerrank][1]
-
-<!-- Icons -->
-
-
-
-
-[1]:https://www.hackerrank.com/sr_utkarsh19
-[2]: https://www.linkedin.com/in/utkarsh-srivastava-100071180/
-
+<h4> <a href="https://www.linkedin.com/in/utkarsh-srivastava-100071180/">Linkedin</a> • <a href="https://www.hackerrank.com/sr_utkarsh19">Hackerrank</a> • <a href="https://www.codechef.com/users/utkarsg12">Codechef</a> • <a href="https://leetcode.com/sr_utkarsh/">Leetcode</a> 
 
 <!--
 **sr-utkarsh/sr-utkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
