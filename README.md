@@ -5,8 +5,7 @@ a Web Developer, Competetive Coder
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=github_dark" />
 
 
-
-You can find me on [![Twitter][1.2]][1],  [[LinkedIn]][2].
+ [LinkedIn][2].
 
 <!-- Icons -->
 
