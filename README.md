@@ -6,7 +6,7 @@ a Web Developer, Competetive Coder
 
 
 
-You can find me on [![Twitter][1.2]][1], LinkedIn [![LinkedIn]][2].
+You can find me on [![Twitter][1.2]][1],  [[LinkedIn]][2].
 
 <!-- Icons -->
 
