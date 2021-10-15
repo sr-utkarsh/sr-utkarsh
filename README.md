@@ -2,7 +2,7 @@
 I am Utkarsh Srivastava
 a Web Developer, Competetive Coder
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=aura_dark" />
 
 <!--
 **sr-utkarsh/sr-utkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
