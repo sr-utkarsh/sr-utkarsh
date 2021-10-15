@@ -5,16 +5,14 @@ a Web Developer, Competetive Coder
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=github_dark" />
 
 
- [LinkedIn][2].
+ [LinkedIn][2] [Hackerrank][1]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]:https://www.hackerrank.com/sr_utkarsh19
 [2]: https://www.linkedin.com/in/utkarsh-srivastava-100071180/
 
 
