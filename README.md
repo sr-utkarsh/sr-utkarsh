@@ -2,9 +2,9 @@
 I am Utkarsh Srivastava
 a Web Developer, Competetive Coder
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=aura_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-utkarsh&theme=github_dark" />
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 <!--
